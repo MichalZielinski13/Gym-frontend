@@ -1,4 +1,4 @@
-import * as React from "react"; //co znaczy ta gwiazdka
+import * as React from "react";
 import Container from "@mui/material/Container";
 import Typography from "@mui/material/Typography";
 import Link from "@mui/material/Link";

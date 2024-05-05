@@ -17,7 +17,6 @@ const root = ReactDOM.createRoot(rootElement!);
 // so that the are in the subtree under the element used in the `important` option of the Tailwind's config.
 const theme = createTheme({
   components: {
-    //co oznacza ten zapis
     MuiPopover: {
       defaultProps: {
         container: rootElement,
